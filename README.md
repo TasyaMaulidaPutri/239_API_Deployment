@@ -1,42 +1,46 @@
 **Post Register:**
 
-<img width="959" height="502" alt="Screenshot 2026-08-05 110407" src="https://github.com/user-attachments/assets/7ae8e1de-d577-4ef5-a959-6d95562b1b65" />
+<img width="1917" height="1003" alt="image" src="https://github.com/user-attachments/assets/ccce4ce9-9145-4b13-8d71-81125a188b8e" />
 
 **Post Login:**
 
-<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/fd79d4f8-dad4-4427-b116-4bb1a2889b88" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/708600cb-5ccd-44e8-9a14-817cc5419068" />
 
 **Post Genre:**
 
-<img width="956" height="502" alt="image" src="https://github.com/user-attachments/assets/57ffca7d-1137-40e1-b6e1-03864d16eddb" />
+<img width="1912" height="1006" alt="image" src="https://github.com/user-attachments/assets/e915b7eb-768a-4101-8f1f-6c007b50ced8" />
 
 **Get Genre:**
 
-<img width="955" height="493" alt="image" src="https://github.com/user-attachments/assets/c238313d-9800-4fe3-b46d-d67a5c36877e" />
+<img width="1915" height="1007" alt="image" src="https://github.com/user-attachments/assets/99628f3c-250c-4bd3-968f-626744fd5409" />
 
 **Put Genre:**
 
-<img width="956" height="504" alt="image" src="https://github.com/user-attachments/assets/f053cd95-c4bd-4187-b501-7667999abcf1" />
+<img width="1915" height="1009" alt="image" src="https://github.com/user-attachments/assets/d3d7fc98-f85b-4f37-995c-a7bc66441afd" />
 
 **Delete Genre:**
 
-<img width="953" height="498" alt="image" src="https://github.com/user-attachments/assets/8aefdba2-326a-4859-a760-a63f59c4aaa5" />
+<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/0c09afca-74be-49c3-95b5-b6df00aee44c" />
 
 **Post Komik:**
 
-<img width="957" height="503" alt="image" src="https://github.com/user-attachments/assets/5cc2eb22-39f6-482c-9993-2a610354236b" />
+<img width="1892" height="988" alt="image" src="https://github.com/user-attachments/assets/a9a4f179-3664-4edf-b98a-2e4f17a0e93e" />
 
 **Get Komik:**
 
-<img width="956" height="502" alt="image" src="https://github.com/user-attachments/assets/531eae9a-eb2d-4837-a158-18037d79e836" />
+<img width="1909" height="1004" alt="image" src="https://github.com/user-attachments/assets/ce5d2226-6330-424e-a4e0-01864be7445f" />
 
 **Put Komik:**
 
-<img width="955" height="500" alt="image" src="https://github.com/user-attachments/assets/2f03a703-daa1-41d1-9dcc-cecbd223cf7c" />
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/17b93fb3-5f8c-4da0-800a-6b64321ac0f0" />
 
 **Delete Komik:**
 
-<img width="953" height="503" alt="image" src="https://github.com/user-attachments/assets/2e6dff2b-cbb8-4997-9e31-4abdeb8c19c2" />
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/1e7e824e-6fd2-426a-b566-05417d78b486" />
+
+## Vercel
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/3ab9ef94-cbd5-4646-b6b6-705429483357" />
+
 
 
 
