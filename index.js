@@ -11,13 +11,27 @@ app.use(express.urlencoded({ extended: true }));
 let databaseReady = false;
 let databasePromise = null;
 
+app.use(async (req, res, next) => {
+    try {
+        if (!databaseReady) {
+            if (!databasePromise) {
+                databasePromise = connectDatabase();
+            }
+            await databasePromise;
+            databaseReady = true;
+        }
+        next();
+    } catch (error) {
+        console.error("Database initialization error:", error.message);
+        
+        databasePromise = null;
+
+        return res.status(500).json({ 
+            error: "Database initialization failed." 
+        });
+    }
+});
 
 
-async function startServer() {
-    await connectDB();
-    app.listen(PORT, () => {
-        console.log(`Server is running on http://localhost:${PORT}`);
-    });
-}
 
 startServer();
