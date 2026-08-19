@@ -34,4 +34,4 @@ app.use(async (req, res, next) => {
 
 app.use('/api', require('./routes/api'));
 
-startServer();
+module.exports = app;
