@@ -15,7 +15,7 @@ app.use(async (req, res, next) => {
     try {
         if (!databaseReady) {
             if (!databasePromise) {
-                databasePromise = connectDatabase();
+                databasePromise = connectDB();
             }
             await databasePromise;
             databaseReady = true;
